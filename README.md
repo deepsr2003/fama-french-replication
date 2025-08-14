@@ -10,8 +10,8 @@ The most interesting result was that for the 2015-2023 period, both the Size and
 
 This project doesn't just replicate a model; it provides a real-world insight into how factor performance is cyclical and not guaranteed.
 
-![Cumulative Factor Performance](https://github.com/deepsr2003/fama-french-replication/blob/main/outputs/plots/cumulative_factors_performance.png?raw=true)
-*(This image will show up once you push your project to a repo with this exact name)*
+[Cumulative Factor Performance]<img width="1200" height="700" alt="cumulative_factors_performance" src="https://github.com/user-attachments/assets/c6256b7a-0561-412b-9cd3-fbbf4d955169" />
+
 
 ### Core Concepts Demonstrated
 *   **Quantitative Research:** Translating academic papers into a functional Python model.
